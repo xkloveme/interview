@@ -25,8 +25,6 @@ features:
 
 基于 Vue，前端面试宝典，
 
-让开发更简单，Easy Code, Colorful Life，
-
 通过此项目,快速查漏补缺
 
 让生活更简单，Easy Code, Colorful Life
