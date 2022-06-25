@@ -36,7 +36,7 @@
     "eslint-plugin-vue": "^5.2.3",
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-kbd": "^2.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "node-sass": "^4.12.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
